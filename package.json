@@ -1,0 +1,28 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwl-andromeda/http-server.git"
+  },
+  "keywords": [
+    "node",
+    "http-server"
+  ],
+  "author": "bwl_andromeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Web-Tricks-Master/node-http-server/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "open": "^10.0.4"
+  }
+}
